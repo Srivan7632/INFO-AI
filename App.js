@@ -169,7 +169,7 @@ export default function App() {
         },
         {
           headers: {
-            Authorization: `Bearer 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`,
+            Authorization: `Enter API KEY`,
             'Content-Type': 'application/json',
           },
           timeout: 60000,
